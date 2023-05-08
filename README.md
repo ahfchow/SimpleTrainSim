@@ -1,3 +1,3 @@
 # SimpleTrainSim
 
-## A SIMPLE SIMULATOR OF TRAIN SERVICE RUNS WITH LOADING/UNLOADING AT ONE STATION ##
+A simple simulator of train service runs with loading and unloading of passenger at a specific station. 
